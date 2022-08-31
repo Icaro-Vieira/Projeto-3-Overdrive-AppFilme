@@ -1,3 +1,7 @@
+<img src="https://user-images.githubusercontent.com/78177376/187682495-f8ae6323-d224-43b8-81a7-e68da4ee59e3.png"/>
+
+<hr />
+
 # Projeto 3 Overdrive
 
 Neste projeto fui encarregado de desenvolver um aplicativo para cinéfilos utilizando o Framework VueJs e consumir a Api The Movie Database. 
