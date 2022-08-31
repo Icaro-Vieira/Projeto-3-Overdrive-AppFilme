@@ -43,7 +43,7 @@ Para utilizar o projeto basta executar esses 5 passos:
   *Link Download: https://nodejs.org/en/*
 
  2. Clonar esse projeto para seu Computador:
-    git clone  https://github.com/Icaro-Vieira/Projeto-3-Overdrive-AppFilme.git
+    ```git clone  https://github.com/Icaro-Vieira/Projeto-3-Overdrive-AppFilme.git```
  3. Criar uma conta no The Movie Database, gerar uma chave e colocar no arquivo axios.js localizado na pasta: src/plugins/axios.js, dentro da `api_key` nas (aspas) "sua chave"   
 
  4. Abrir o projeto e rodar no PowerShell o comando
